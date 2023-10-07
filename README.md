@@ -18,4 +18,4 @@ Realtime Object Detection is a python-based app that can detect objects in realt
 
 
 
-Created with ❤️ by Shivam,Riddhith,Anupam,Kuntal
+Created with ❤️ by Shivam
