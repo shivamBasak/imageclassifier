@@ -1,8 +1,14 @@
-# Realtime Object Detection
+# IMAGE CLASSIFIER
 
-## What is Realtime Object Detection?
-
-Realtime Object Detection is a python-based app that can detect objects in realtime (or any video given) with OpenCV while using your computers CPU for processing power. So you don't need to have a GPU for this app to run on your computer!
+## Description 
+Developed an image classification application using machine
+learning techniques. Trained the model on a dataset of diverse images to
+accurately classify and predict objects or scenes within images.
+## Technologies Used: 
+Python, TensorFlow ,OPENCV.
+## Key Achievements:
+Achieved a high level of accuracy in image classification through fine-tuning and
+optimization.
 
 ## Requirements
 
@@ -15,7 +21,6 @@ Realtime Object Detection is a python-based app that can detect objects in realt
 - Download the repo as a ZIP file or clone it to your local computer.
 - Start up your command prompt and change directory to the repos location.
 - Type `python main.py` in the command prompt and press Enter.
-
 
 
 Created with ❤️ by Shivam
